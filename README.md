@@ -67,9 +67,9 @@ To analyze and visualize sales data from Amazon, International, and General sour
 📒 [Code File](https://github.com/MisbahjabinShaikh)
 
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/2029ab4e-e4b5-4e58-89f1-5d029628a01a)
-)
+
 
 ## 🔗 Connect With Me
 💼 [LinkedIn](https://www.linkedin.com/in/misbahjabin-shaikh/)
