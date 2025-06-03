@@ -50,11 +50,11 @@ To analyze and visualize sales data from Amazon, International, and General sour
 
 ## 🔧 Challenges & Solutions
 
-Column Name Inconsistencies | Used `.str.strip().str.lower()` to clean 
-Missing Values | Mode/Mean/Median imputation 
-Source Traceability | Added a `source` column before merging 
-99% Missing Columns | Dropped (`stock` column) 
-Non-Date Formats | Used `pd.to_datetime(errors='coerce')` 
+- Column Name Inconsistencies | Used `.str.strip().str.lower()` to clean 
+- Missing Values | Mode/Mean/Median imputation 
+- Source Traceability | Added a `source` column before merging 
+- 99% Missing Columns | Dropped (`stock` column) 
+- Non-Date Formats | Used `pd.to_datetime(errors='coerce')` 
 
 
 ## 🛠️ Tools & Technologies
